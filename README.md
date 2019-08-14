@@ -1,4 +1,5 @@
 # Ansible Sample YML 
 
-Command to run the ansible yml file 
-ansible-playbook <name of the file >
+The above is a sample Playbook where we are trying to cover the basic syntax of a playbook
+Name: 
+
